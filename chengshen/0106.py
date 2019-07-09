@@ -9,6 +9,8 @@
 @time: 2019/7/9 11:31
 @desc:
 '''
+#使用network ,就是有点慢
+
 import networkx as nx
 import matplotlib.pyplot as plt
 import community
@@ -57,6 +59,6 @@ nx.draw_networkx_labels(Gt,spring_pos,font_size=6,font_color='b')
 # plt.savefig("FB_BetCen.png", dpi = 300)
 
 
-plt.savefig("net_weight4.png")
+plt.savefig("net_weight5.png", dpi = 300)
 
 plt.show()
