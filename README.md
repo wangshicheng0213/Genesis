@@ -5,7 +5,3 @@
 3.第三阶段为工程阶段
 
 
-
-
-
-![1564206942021](C:\Users\WANGSH~1\AppData\Local\Temp\1564206942021.png)
